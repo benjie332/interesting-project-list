@@ -23,3 +23,6 @@ https://github.com/adamtornhill/code-maat
 
 How to design large-scale systems: 
 https://github.com/donnemartin/system-design-primer/blob/master/README.md
+
+Developer roadmap in 2017:
+https://github.com/kamranahmedse/developer-roadmap
