@@ -26,3 +26,6 @@ https://github.com/donnemartin/system-design-primer/blob/master/README.md
 
 Developer roadmap in 2017:
 https://github.com/kamranahmedse/developer-roadmap
+
+Test impact analysis, to identify which tests to run:
+https://martinfowler.com/articles/rise-test-impact-analysis.html
