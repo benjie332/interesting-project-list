@@ -29,3 +29,6 @@ https://github.com/kamranahmedse/developer-roadmap
 
 Test impact analysis, to identify which tests to run:
 https://martinfowler.com/articles/rise-test-impact-analysis.html
+
+Block chain, for the JVM:
+https://www.corda.net/
