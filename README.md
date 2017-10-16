@@ -32,3 +32,9 @@ https://martinfowler.com/articles/rise-test-impact-analysis.html
 
 Block chain, for the JVM:
 https://www.corda.net/
+
+Graph database, for knowledge systems:
+https://grakn.ai/
+
+Plain old graph database:
+https://neo4j.com/
