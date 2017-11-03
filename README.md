@@ -38,3 +38,6 @@ https://grakn.ai/
 
 Plain old graph database:
 https://neo4j.com/
+
+Lockless concurrency:
+https://assets.bitbashing.io/papers/lockless.pdf
