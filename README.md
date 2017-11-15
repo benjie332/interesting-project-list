@@ -41,3 +41,6 @@ https://neo4j.com/
 
 Lockless concurrency:
 https://assets.bitbashing.io/papers/lockless.pdf
+
+Deep learning, for Java:
+https://deeplearning4j.org/
